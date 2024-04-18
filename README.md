@@ -14,6 +14,6 @@ The workflow involves several key steps:
 
 5)Model Development: A linear regression model is trained using the processed dataset to predict insurance charges based on the input parameters.
 
-6)Model Evaluation: The performance of the model is assessed using appropriate metrics, with a particular focus on accuracy. The model achieves an accuracy rate exceeding 90%, indicating its efficacy in predicting insurance charges.
+6)Model Evaluation: The performance of the model is assessed using appropriate metrics, with a particular focus on accuracy. The model achieves an accuracy rate exceeding 85%, indicating its efficacy in predicting insurance charges.
 
 This project serves as a demonstration of utilizing machine learning techniques, specifically linear regression, to provide valuable insights for insurance companies. By accurately predicting charges based on customer attributes, this model can assist in optimizing pricing strategies and improving decision-making processes within the insurance industry.
